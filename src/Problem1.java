@@ -1,5 +1,6 @@
 /**
- * Problem 1 - Voka, Konsonan Menghitung jumlah karakter yang berupa vokal, konsonan dan total
+ * Problem 1 - Vokal, Konsonan
+ * Menghitung jumlah karakter yang berupa vokal, konsonan dan total
  * karakter dari kalimat "Alterra Indonesia".
  */
 public class Problem1 {
